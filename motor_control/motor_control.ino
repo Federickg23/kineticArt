@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 #define USE_SERIAL Serial
 //
-const char *ssid_Router     = "laptop"; //Enter the router name
-const char *password_Router = "]45n969R"; //Enter the router password
+const char *ssid_Router     = "*******"; //Enter the router name
+const char *password_Router = "*******"; //Enter the router password
 
 String address= "http://165.227.76.232:3000/fag2113/running";
 Servo myservo;  // create servo object to control a servo
